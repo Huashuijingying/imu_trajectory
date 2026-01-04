@@ -124,6 +124,7 @@ zupt_gravity_calibration_threshold: 100 # 零速检测触发重力重新计算�
 ```
 
 ### 6. IMU标定参数
+可由imu_utils(https://github.com/gaowenliang/imu_utils)得到
 ```yaml
 calibration_file_path: "/home/ubuntu20/imu_traj_ws/src/imu_trajectory/IM42652_imu_param.yaml"  # IMU标定文件路径
 ```
